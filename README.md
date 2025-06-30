@@ -12,7 +12,7 @@ This repository serves as a central hub for accessing the tasks assigned to me b
 
 ---
 
-### [**Task 2: Predict Future Stock Prices (Short-Term]**](https://github.com/Aalleyy/Stock-Predictor-ShortTerm)  
+### [**Task 2: Predict Future Stock Prices (Short-Term)]**](https://github.com/Aalleyy/Stock-Predictor-ShortTerm)  
 - Predict next-day stock closing prices using historical data  
 - Apply regression models and plot actual vs predicted values
 
