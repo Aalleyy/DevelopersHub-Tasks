@@ -6,19 +6,19 @@ This repository serves as a central hub for accessing the tasks assigned to me b
 
 ## Task Repositories
 
-### [**Task 1: Exploring and Visualizing a Simple Dataset**](https://github.com/Aalleyy/Iris-Dataset-EDA)  
+### **Task 1: Exploring and Visualizing a Simple Dataset** [Link to Repository](https://github.com/Aalleyy/Iris-Dataset-EDA)  
 - Analyze and visualize the Iris dataset  
 - Explore trends and distributions using pandas, matplotlib, and seaborn
 
 ---
 
-### [**Task 2: Predict Future Stock Prices (Short-Term)**](https://github.com/Aalleyy/Stock-Predictor-ShortTerm)  
+### **Task 2: Predict Future Stock Prices (Short-Term)** [Link to Repository](https://github.com/Aalleyy/Stock-Predictor-ShortTerm)  
 - Predict next-day stock closing prices using historical data  
 - Apply regression models and plot actual vs predicted values
 
 ---
 
-### [**Task 3: Heart Disease Prediction**](https://github.com/Aalleyy/Heart-Disease-Predictor)  
+### **Task 3: Heart Disease Prediction** [Link to Repository](https://github.com/Aalleyy/Heart-Disease-Predictor)  
 - Classify heart disease risk using health data  
 - Build and evaluate a machine learning model with medical features
 
